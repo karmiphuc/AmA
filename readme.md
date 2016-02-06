@@ -2,7 +2,15 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Hello, I am Karmi Phúc.
+
+A Full-stack Developer. A Google Enthusiast. A Product Builder. A Life-hacker.
+
+I often write at [karmiphuc.com](http://karmiphuc.com/) and [Medium](https://medium.com/@karmiphuc).
+
+I build things to help people learn and save time like [Visual demo of basic HTML/CSS](http://karmiphuc.com/tools/htmlcss/) and [Facebook Favorite extension for Chrome](http://karmiphuc.com/tools/fbfavorite.html).
+
+You can ask me anything here.
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
